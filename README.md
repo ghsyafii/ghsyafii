@@ -16,6 +16,6 @@ Yes, you could find out whether it's balmy or blizzarding in [insert city here] 
 
 <h3><a href="https://syafii.co">syafii.co</a></h3>
 
-My personal website. Well, it's a virtual business card more than anything, really. Click the button on the bottom-right corner to change the colour of the background—the colour of the text dynamically alters so it's readable no matter how bright or dark the background gets. How did I do it? It's a secret. Kidding, I used the very cool <a href="https://gka.github.io/chroma.js/">chroma.js</a> library. Check it out <a href="https://syafii.co">here</a>.
+My personal website. Well, it's a virtual business card more than anything, really. Click the button on the bottom-right corner to change the background colour—the colour of the text dynamically alters so it's readable no matter how bright or dark the background gets. How did I do it? It's a secret. Kidding, I used the very cool <a href="https://gka.github.io/chroma.js/">chroma.js</a> library. Check it out <a href="https://syafii.co">here</a>.
 
 Feel free to <a href="mailto:hey@syafii.co">get in touch</a>!
