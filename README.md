@@ -8,7 +8,7 @@ In the '70s, pioneering musician Brian Eno released Oblique Strategies, a collec
 
 <h3><a href="https://ssa-furniture.herokuapp.com" target="_blank">SSA Furniture</a></h3>
   
-This e-commerce site was built using Node.js and MongoDB on the backend. I designed and coded the UI, and implemented CRUD operations for products and user login/registration/authentication. It's mobile responsive, so it looks equally dope on both 🖥️ and your 📱. Check it out <a href="https://ssa-furniture.herokuapp.com" target="_blank">here</a>.
+This e-commerce site was built with a fellow developer using Node.js and MongoDB on the backend. I designed and coded the UI, and implemented CRUD operations for products and user login/registration/authentication. It's mobile responsive, so it looks equally dope on both 🖥️ and your 📱. Check it out <a href="https://ssa-furniture.herokuapp.com" target="_blank">here</a>.
 
 <h3><a href="https://wither-the-weather.netlify.app">What's the weather like in your city?</a></h3>
 
