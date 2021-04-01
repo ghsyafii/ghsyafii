@@ -4,7 +4,7 @@ Here's a selection of recent projects:
 
 <h3><a href="https://ob-strat.netlify.app" target="_blank">Oblique Strategies</a></h1>
 
-In the '70s, pioneering musician Brian Eno released Oblique Strategies, a collection of aphorisms printed on 100+ cards. It was meant to help artists generate ideas and break out of stale patterns. This web version was designed to be as intuitive and stripped-down as possible, in line with the original product's spirit. Check it out <a href="https://ob-strat.netlify.app" target="_blank">here</a>.
+In the '70s, pioneering musician Brian Eno released Oblique Strategies, a collection of aphorisms printed on 100+ cards. It was meant to help artists generate ideas and break out of stale patterns. This web version was designed to be as intuitive and stripped-down as possible, in keeping with the original product's spirit. Check it out <a href="https://ob-strat.netlify.app" target="_blank">here</a>.
 
 <h3><a href="https://ssa-furniture.herokuapp.com" target="_blank">SSA Furniture</a></h3>
   
