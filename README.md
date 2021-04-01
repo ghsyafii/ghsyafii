@@ -10,7 +10,7 @@ In the '70s, pioneering musician Brian Eno released Oblique Strategies, a collec
   
 This e-commerce site was built with a fellow developer using Node.js and MongoDB on the backend. I designed and coded the UI, and implemented CRUD operations for products and user login/registration/authentication. It's mobile responsive, so it looks equally good on both 🖥️ and your 📱. Check it out <a href="https://ssa-furniture.herokuapp.com" target="_blank">here</a>.
 
-<h3><a href="https://wither-the-weather.netlify.app">What's the weather like in your city?</a></h3>
+<h3><a href="https://wither-the-weather.netlify.app">How's the weather?</a></h3>
 
 Yes, you could find out whether it's balmy or blizzarding in [insert city here] by summoning Siri, but you could also use this nifty web app I built that grabs data from the <a href="https://developer.accuweather.com">AccuWeather API</a>. Results from the last query persist thanks to localStorage, and it's also an installable Chrome web app, courtesy of <a href="https://pep.dev">Pep</a>. Check it out <a href="https://wither-the-weather.netlify.app">here</a>.
 
