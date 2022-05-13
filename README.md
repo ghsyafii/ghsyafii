@@ -16,6 +16,6 @@ In the '70s, pioneering musician Brian Eno released Oblique Strategies, a collec
 
 <h3><a href="https://syafii.co">Syafii.co</a></h3>
 
-My personal website. Well, it's a virtual business card more than anything, really. Click the button on the bottom-right corner to change the background colour—the colour of the text dynamically alters so it's readable no matter how bright or dark the background gets. How did I do it? Secret. Kidding, I used the very cool <a href="https://gka.github.io/chroma.js/">chroma.js</a> library. Check out the code <a href="https://github.com/ghsyafii/ghsyafii.github.io" target="_blank">here</a> and the site <a href="https://syafii.co">here</a>.
+My personal website. Well, it's a virtual business card more than anything, really. Click the button on the bottom-right corner to change the background colour—the colour of the text dynamically alters so it's readable no matter how bright or dark the background gets. How did I do it? Secret. Kidding, I used the very cool <a href="https://gka.github.io/chroma.js/">chroma.js</a> library. Check out the site <a href="https://syafii.co">here</a>.
 
 Feel free to <a href="mailto:hey@syafii.co">get in touch</a>!
