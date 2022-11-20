@@ -4,7 +4,7 @@ Here's a selection of recent projects:
 
 <h3><a href="https://ssa-furniture.herokuapp.com" target="_blank">SSA Furniture</a></h3>
   
-This e-commerce site was built with a fellow developer using Node.js and MongoDB on the backend. I designed and coded the UI, and implemented CRUD operations for products and user login/registration/authentication. It's mobile responsive, so it looks equally good on both 🖥️ and your 📱. Check out the code <a href="https://github.com/ghsyafii/ssa-furniture" target="_blank">here</a> and the site <a href="https://ssa-furniture.herokuapp.com" target="_blank">here</a>.
+This e-commerce site was built with a fellow developer using Node.js and MongoDB on the backend. I designed and coded the UI, and implemented CRUD operations for products and user login/registration/authentication. It's mobile responsive, so it looks equally good on both 🖥️ and your 📱. Check out the code <a href="https://github.com/ghsyafii/ssa-furniture" target="_blank">here</a> and the site <a href="https://ssa-furniture.onrender.com" target="_blank">here</a>.
 
 <h3><a href="https://wither-the-weather.netlify.app">How's the weather?</a></h3>
 
